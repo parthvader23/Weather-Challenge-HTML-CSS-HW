@@ -1,0 +1,29 @@
+/* .pics {
+    width:50px;
+    height:60px;
+
+} */
+.font{
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.plots{
+    margin-top: 3%;
+    margin-left: 25%;
+
+}
+.titles{
+    font-size:x-large;
+    color:darkcyan;
+    margin-left: 33%;
+}
+.paragraph{
+    font-size:smaller;
+    color:darkcyan
+}
+.comparison_title{
+    font-size:x-large;
+    color:darkcyan;
+    margin-left: 0%;
+}
+
